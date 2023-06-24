@@ -1,2 +1,2 @@
-# Task-1-OIBSIS
-It's a Landing  Page created by usinh HTML,CSS,JAVASRIPT
+# Task-1-OIBSIP
+It's a Landing  Page created by using HTML,CSS,JAVASRIPT
